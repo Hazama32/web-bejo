@@ -197,7 +197,7 @@ export const productPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                gatsbyImageData(quality: 72, layout: FULL_WIDTH)
+                gatsbyImageData(quality: 90, layout: FULL_WIDTH)
               }
             }
           }
