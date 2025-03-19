@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title:
+title: Produk Yang Kita Tawarkan
 image: /img/head5.jpg
 heading: Varian Produk Sambal Bajag Bejo
 description: >-
