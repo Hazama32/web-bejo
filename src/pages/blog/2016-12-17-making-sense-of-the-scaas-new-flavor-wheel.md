@@ -1,33 +1,34 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: 1 Sendok Sambal Bajag Bejo = 1 Alasan Nambah Nasi!
+date: 2025-04-09T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/blog3.jpg
+description: Dengan gaya promosi ringan, pembaca diajak merasakan perbedaan sambal bajag dibanding sambal biasa dari teksturnya yang khas, aromanya yang menggoda, hingga varian rasanya yang unik. Cocok untuk siapa pun yang ingin menambah kenikmatan makan tanpa ribet. 
 tags:
-  - flavor
-  - tasting
+  - aroma
+  - rasa
+  - sambal enak
+  - RasaRumahan
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![pembuatan sambal](/img/blog3.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Sambal Biasa vs Sambal Bajag Bejo: Apa Bedanya?
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Kebanyakan sambal instan cuma menawarkan rasa pedas. Tapi Sambal Bajag Bejo beda. Ini sambal bajag, yang diulek kasar, digoreng dengan bawang merah dan putih segar, lalu dimasak perlahan dengan minyak kelapa pilihan.
 
-## What the updates mean to you
+Teksturnya lebih berani kamu bisa lihat potongan cabai, merasakan renyahnya bawang goreng, dan mencium aroma khas yang susah dilupakan. Ini sambal rumahan yang akhirnya bisa kamu nikmati dari dalam toples.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+## Cocok Buat Siapa Aja?
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+1. Ibu rumah tangga yang butuh sambal praktis tapi rasanya seperti buatan sendiri.
+2. Anak kos yang ingin makan hemat tapi tetap nikmat.
+3. Pecinta kuliner pedas yang suka eksplor rasa baru.
+4. Pemilik usaha makanan yang ingin menambahkan sambal khas ke menunya.
+5. Keluarga yang ingin sajian sederhana tapi istimewa di meja makan.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+## Bisa Disimpan, Siap Saji, dan Nggak Ribet!
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Sambal Bajag Bejo dikemas higienis, tanpa pengawet, tapi bisa disimpan lama asal tertutup rapat dan disimpan di suhu ruang. Nggak perlu simpan di kulkas, nggak perlu dipanasin ulang. Tinggal buka, ambil sendok, dan nikmati.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Praktis banget buat dibawa traveling, piknik, atau dikirim ke perantauan. Cocok juga buat hampers makanan lho!
