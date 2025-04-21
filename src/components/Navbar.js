@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import Whatsapp from "../img/icons8-whatsapp (1).svg";
-import logo from "../img/web.png";
+import logo from "../img/Web.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
