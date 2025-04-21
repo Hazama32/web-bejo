@@ -30,7 +30,7 @@ main:
   heading: Apa yang Kami Tawarkan?
   description: >
     Kami tidak hanya menawarkan sambal biasa, tetapi sebuah pengalaman rasa yang autentik dan menggugah selera.
-    Dengan bahan berkualitas tinggi dan racikan bumbu khas, kami menghadirkan sambal yang kaya rasa, gurih, dan pedas yang pas.
+    Dengan bahan berkualitas tinggi dan racikan bumbu khas, kami menghadirkan sambal yang kaya rasa, gurih, dan pedas yang pas di lidah.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/sambal3.jpg
