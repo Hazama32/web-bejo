@@ -25,7 +25,7 @@ intro:
        Varian unik ini mengombinasikan rasa pedas khas sambal bajag dengan sensasi asam segar dari mangga muda. Perpaduan ini memberikan pengalaman rasa yang unik dan menyegarkan.
     - image: /img/teri.jpg
       text: >
-       Varian ini menghadirkan perpaduan sempurna antara pedasnya cabai segar dan gurihnya ikan teri yang digoreng renyah. Setiap suapan menghadirkan rasa pedas, asin, dan umami yang khas, cocok untuk menemani berbagai hidangan. Dengan tekstur yang kaya dan aroma menggoda, sambal ini siap membuat setiap hidangan jadi lebih spesial.
+       Varian ini menghadirkan perpaduan sempurna antara pedasnya cabai segar dan gurihnya ikan teri yang digoreng renyah. Setiap suapan menghadirkan rasa pedas, asin, dan umami yang khas, cocok untuk menemani berbagai hidangan. Dengan tekstur yang kaya rasa dan aroma menggoda, sambal ini siap membuat setiap hidangan jadi lebih spesial.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
