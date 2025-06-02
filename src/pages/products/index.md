@@ -11,12 +11,13 @@ intro:
     - image: /img/sambal ori.jpg
       text: >
         Sambal ini menghadirkan cita rasa klasik dengan perpaduan cabai merah, bawang goreng, dan rempah pilihan yang menghasilkan rasa pedas gurih yang khas. Cocok untuk segala jenis makanan, mulai dari nasi putih, gorengan, hingga lauk pauk favorit Anda.
-    - image: /img/sambal extra pedas.jpg
+    # - image: /img/sambal extra pedas.jpg
+    #   text: >
+    #     Bagi pencinta pedas sejati, varian ini dibuat dengan cabai rawit pilihan yang memberikan sensasi pedas yang lebih menggigit, namun tetap dengan rasa gurih yang seimbang.
+    - image: /img/sambal cumi2.jpg
       text: >
-        Bagi pencinta pedas sejati, varian ini dibuat dengan cabai rawit pilihan yang memberikan sensasi pedas yang lebih menggigit, namun tetap dengan rasa gurih yang seimbang.
-    - image: /img/sambal mangga.jpg
-      text: >
-        Varian unik ini mengombinasikan rasa pedas khas sambal bajag dengan sensasi asam segar dari mangga muda. Perpaduan ini memberikan pengalaman rasa yang unik dan menyegarkan.
+        Perpaduan sempurna antara cumi asin yang gurih dan sambal bajag khas Bejo yang pedasnya nendang!
+        Sambal Cumi kami dibuat dari cumi pilihan yang dimasak hingga empuk dan meresap bumbunya, lalu dicampur dengan cabai segar, bawang merah putih, dan minyak kelapa murni.
     - image: /img/teri.jpg
       text: >
        Varian ini menghadirkan perpaduan sempurna antara pedasnya cabai segar dan gurihnya ikan teri yang digoreng renyah. Setiap suapan menghadirkan rasa pedas, asin, dan umami yang khas, cocok untuk menemani berbagai hidangan. Dengan tekstur yang kaya dan aroma menggoda, sambal ini siap membuat setiap hidangan jadi lebih spesial.
@@ -67,11 +68,11 @@ pricing:
         - Tutup Botol Flip-Top/Ulir
       plan: Sedang
       price: '18.000'
-    - description: Botol Besar (300gr)
-      items:
-        - Tinggi ± 15 cm, Diameter ± 6 cm
-        - Botol Plastik PET Food Grade
-        - Tutup Botol Flip-Top/Ulir
-      plan: Besar
-      price: '25.000'
+    # - description: Botol Besar (300gr)
+    #   items:
+    #     - Tinggi ± 15 cm, Diameter ± 6 cm
+    #     - Botol Plastik PET Food Grade
+    #     - Tutup Botol Flip-Top/Ulir
+    #   plan: Besar
+    #   price: '25.000'
 ---
