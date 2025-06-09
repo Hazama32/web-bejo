@@ -7,7 +7,7 @@ title: Tentang Brand Kami
 Sambal Bajag Bejo lahir dari resep tradisional yang diwariskan turun-temurun. Dibuat dengan bahan-bahan alami berkualitas tinggi, kami menghadirkan sambal dengan rasa pedas gurih khas Nusantara. Tanpa pengawet dan MSG, setiap botol Sambal Bajag Bejo dibuat dengan cinta dan dedikasi untuk menghadirkan sensasi pedas yang nikmat dan autentik.
 
 ### Pedasnya Bikin Bahagia
-Bagi pencinta pedas, Sambal Bajag Bejo adalah sahabat terbaik di meja makan. Dengan cabai segar, bawang goreng yang renyah, dan racikan rempah pilihan, kami menghadirkan cita rasa yang tidak hanya pedas, tetapi juga gurih dan kaya rasa. Cukup satu sendok, makanan Anda langsung terasa lebih spesial!
+Bagi pencinta pedas, Sambal Bajag Bejo adalah sahabat terbaik di meja makan. Dengan cabai segar, dan racikan rempah pilihan, kami menghadirkan cita rasa yang tidak hanya pedas, tetapi juga gurih dan kaya rasa. Cukup satu sendok, makanan Anda langsung terasa lebih spesial!
 
 ### Rasa Nusantara dalam Setiap Sajian
 Indonesia kaya akan rasa dan tradisi kuliner, dan Sambal Bajag Bejo hadir untuk membawa kelezatan itu ke meja Anda. Terinspirasi dari sambal khas rumahan, kami menghadirkan berbagai varian sambal yang cocok untuk semua jenis makanan, dari nasi hangat hingga seafood panggang.

@@ -6,10 +6,11 @@ featuredpost: false
 featuredimage: /img/blog3.jpg
 description: Dengan gaya promosi ringan, pembaca diajak merasakan perbedaan sambal bajag dibanding sambal biasa dari teksturnya yang khas, aromanya yang menggoda, hingga varian rasanya yang unik. Cocok untuk siapa pun yang ingin menambah kenikmatan makan tanpa ribet. 
 tags:
-  - aroma
-  - rasa
-  - sambal enak
-  - RasaRumahan
+  - sambal bajag ulek kasar
+  - selera sambal bajag tangerang
+  - sambal praktis tanpa pengawet
+  - sambal cocok untuk anak kos
+  - oleh-oleh sambal khas rumahan
 ---
 ![pembuatan sambal](/img/blog3.jpg)
 

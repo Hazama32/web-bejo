@@ -6,10 +6,11 @@ featuredpost: false
 featuredimage: /img/blog1.jpg
 description: Setiap rumah punya cerita. Dan di rumah kami, cerita itu selalu dimulai dari dapur. Dapur kecil yang sederhana, tapi selalu penuh aroma bawang goreng, cabai tumis, dan suara gemericik minyak panas. Di sana, Ibu adalah rajanya.
 tags:
-  - sambal
-  - cerita kita
-  - UMKM lokal
-  - kuliner indonesia
+  - asal usul sambal bejo
+  - cerita sambal rumahan
+  - sambal bajag khas Jawa
+  - kuliner rumahan tangerang
+  - sambal bajag di Indonesia
 ---
 ![cerita sambal](/img/blog1.jpg)
 

@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: "Sambal Bajag Bejo",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Sambal Bajag Bejo hadir bukan sekadar sambal biasa, Sambal Bajag Bejo sambal khas Nusantara buatan rumah, Sambal Bajag Bejo menghadirkan perpaduan rasa yang pas tidak hanya pedas ",
+    url: "https://sambalbajagbejo.web.id",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

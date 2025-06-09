@@ -2,16 +2,24 @@
 templateKey: index-page
 title: SAMBAL BAJAG "BEJO"
 image: /img/head.jpg
-heading: Tentang Kami
+heading: Kenapa Harus Memilih Sambal Bajag Bejo?
 subheading: Sambal pedas yang memukau semua orang
 mainpitch:
   title: SELAMAT DATANG DI WEBSITE SAMBAL BAJAG "BEJO"
   description: >
-   Nikmati sensasi pedas khas Nusantara dengan Sambal Bajag Bejo. Dibuat dari bahan-bahan pilihan, tanpa pengawet, dan diolah dengan resep tradisional yang kaya rasa.
+   Sambal Bajag Bejo bukan hanya sambal biasa. Ini adalah sajian khas dari desa kecil di Binong Permai yang membawa rasa besar pedasnya berani, gurihnya dalam, dan wanginya bikin lapar sebelum suapan pertama.
+
+   Kami hadir untuk kamu yang rindu akan sambal rumahan dengan rasa autentik, dibuat dengan penuh ketulusan dan tanpa bahan tambahan berbahaya. Dari proses pemilihan bahan, penggorengan cabai segar, hingga pengemasan, semuanya dilakukan dengan tangan terampil dan hati yang menjaga kualitas.
+
+   Bagi kami, sambal bukan hanya pelengkap namun ini adalah jiwa dari masakan Indonesia.
 description: >-
-  Sambal Bajag Bejo adalah sambal khas dengan cita rasa autentik Nusantara. Dibuat dari cabai pilihan, bawang goreng yang renyah, serta rempah-rempah rahasia yang memberikan sensasi pedas gurih yang bikin nagih.
+  Sambal Bajag Bejo adalah sambal khas Nusantara buatan rumah dari Binong Permai, Kec. Curug, Kab. Tangerang yang menghadirkan rasa pedas autentik dan aroma rempah tradisional yang kuat, menjadikannya pelengkap sempurna untuk berbagai hidangan khas Indonesia. Dibuat secara homemade dari cabai pilihan berkualitas tinggi, sambal ini diracik menggunakan resep warisan keluarga yang telah dipercaya turun-temurun. Proses pembuatannya dilakukan secara tradisional dengan teknik memasak yang menjaga rasa, aroma, dan kualitas bahan tetap alami dan menggugah selera.
+
+  Sambal Bajag Bejo hadir bukan sekadar sambal biasa, perpaduan antara cabai rawit lokal, bawang merah, bawang putih, garam alami, dan rempah-rempah rahasia, menghasilkan sensasi pedas yang menggigit namun tetap nikmat, serta aroma gurih yang khas. Cita rasa ini menjadikannya cocok untuk berbagai jenis masakan, mulai dari ayam goreng, nasi uduk, ikan bakar, hingga makanan kekinian seperti rice bowl dan ayam geprek.
+
 subdescription:
  Dengan racikan khas yang diwariskan turun-temurun, setiap sendok Sambal Bajag Bejo menghadirkan perpaduan rasa yang pas tidak hanya pedas, tetapi juga kaya akan aroma dan kelezatan yang membuat setiap hidangan semakin istimewa.
+ Tidak hanya nikmat, Sambal Bajag Bejo juga dibuat tanpa tambahan pengawet buatan, pewarna sintetis, atau MSG, sehingga aman dikonsumsi oleh semua kalangan, mulai dari anak muda, ibu rumah tangga, hingga pecinta kuliner sejati yang mencari sensasi sambal khas Indonesia yang sesungguhnya.
 intro:
   blurbs:
     - image: /img/sambal ori.jpg
