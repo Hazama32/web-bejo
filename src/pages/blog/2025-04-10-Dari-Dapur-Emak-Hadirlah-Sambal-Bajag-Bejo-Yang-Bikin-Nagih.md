@@ -11,6 +11,11 @@ tags:
   - sambal bajag khas Jawa
   - kuliner rumahan tangerang
   - sambal bajag di Indonesia
+  - sambal bajag bejo rasa otentik tradisional
+  - sambal rumahan favorit warga tangerang
+  - sambal khas jawa pedas gurih melegenda
+  - rekomendasi sambal bajag enak tanpa MSG
+  - sambal buatan UMKM lokal tangerang
 ---
 ![cerita sambal](/img/blog1.jpg)
 
