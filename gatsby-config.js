@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "Sambal Bajag Bejo",
-    description:
-      "Sambal Bajag Bejo hadir bukan sekadar sambal biasa, Sambal Bajag Bejo sambal khas Nusantara buatan rumah, Sambal Bajag Bejo menghadirkan perpaduan rasa yang pas tidak hanya pedas ",
+    description:"Sambal Bajag Bejo hadir bukan sekadar sambal biasa, Sambal Bajag Bejo sambal khas Nusantara buatan rumah, Sambal Bajag Bejo menghadirkan perpaduan rasa yang pas tidak hanya pedas ",
+    author: "Muhammad Bintang Insan Cemerlang",
+    keywords: "sambal bajag bejo tangerang,sambal bajag terdekat,sambal bajag di tangerang",
     url: "https://sambalbajagbejo.web.id",
   },
   plugins: [
