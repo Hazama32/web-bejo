@@ -8,14 +8,14 @@ description: >-
 tags:
   - sambal bajag bejo recipe
   - sambal bajag bejo tangerang
-  - cita rasa rumahan indonesia
-  - stories blog produk sambal
+  - cita rasa sambal bajag rumahan indonesia
+  - stories blog produk sambal bajag bejo
   - sambal bajag bejo khas rumahan
   - resep autentik sambal bajag bejo
-  - sambal rumahan ala ibu di dapur Indonesia
+  - sambal bajag rumahan ala ibu di dapur Indonesia
   - kisah UMKM sambal bajag bejo tangerang
-  - sambal tradisional untuk lauk sehari-hari
-  - sambal legendaris khas rumahan Indonesia
+  - sambal bajag tradisional untuk lauk sehari-hari
+  - sambal bajag legendaris khas rumahan Indonesia
 ---
 ## Apa Itu Sambal Bajag?
 Sambal bajag adalah sambal khas rumahan yang biasanya diulek kasar dan digoreng dengan bumbu bawang yang melimpah. Bukan sambal mentah, bukan pula sambal yang terlalu halus. Teksturnya masih terasa, ada sensasi “krenyes” dari bawang goreng, dan rasa gurih yang menyatu sempurna dengan pedasnya cabai.

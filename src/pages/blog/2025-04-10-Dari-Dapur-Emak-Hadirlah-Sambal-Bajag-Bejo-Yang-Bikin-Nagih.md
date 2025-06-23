@@ -6,16 +6,16 @@ featuredpost: false
 featuredimage: /img/blog1.jpg
 description: Setiap rumah punya cerita. Dan di rumah kami, cerita itu selalu dimulai dari dapur. Dapur kecil yang sederhana, tapi selalu penuh aroma bawang goreng, cabai tumis, dan suara gemericik minyak panas. Di sana, Ibu adalah rajanya.
 tags:
-  - asal usul sambal bejo
-  - cerita sambal rumahan
+  - asal usul sambal bajag bejo
+  - cerita sambal bajag rumahan
   - sambal bajag khas Jawa
   - kuliner rumahan tangerang
   - sambal bajag di Indonesia
   - sambal bajag bejo rasa otentik tradisional
-  - sambal rumahan favorit warga tangerang
-  - sambal khas jawa pedas gurih melegenda
+  - sambal bajag rumahan favorit warga tangerang
+  - sambal bajag khas jawa pedas gurih melegenda
   - rekomendasi sambal bajag enak tanpa MSG
-  - sambal buatan UMKM lokal tangerang
+  - sambal bajag buatan UMKM lokal tangerang
 ---
 ![cerita sambal](/img/blog1.jpg)
 
