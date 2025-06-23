@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path: /blog
 title: 'Kenapa Sambal Bajag Bejo Beda dari Sambal Lainnya? Yuk, Kenalan!'
 date: 2025-04-10T15:04:10.000Z
 featuredpost: true

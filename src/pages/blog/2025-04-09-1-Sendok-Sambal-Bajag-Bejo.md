@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: 1 Sendok Sambal Bajag Bejo = 1 Alasan Nambah Nasi!
 date: 2025-04-09T15:04:10.000Z
 featuredpost: false

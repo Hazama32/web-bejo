@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Dari Dapur Emak, Hadirlah Sambal Bajag Bejo yang Bikin Nagih
 date: 2025-04-10T15:04:10.000Z
 featuredpost: false
