@@ -3,7 +3,7 @@ module.exports = {
     title: "Sambal Bajag Bejo",
     description:"Sambal Bajag Bejo hadir bukan sekadar sambal biasa, Sambal Bajag Bejo sambal khas Nusantara buatan rumah, Sambal Bajag Bejo menghadirkan perpaduan rasa yang pas tidak hanya pedas ",
     author: "Muhammad Bintang Insan Cemerlang",
-    keywords: "sambal bajag bejo tangerang,sambal bajag terdekat,sambal bajag di tangerang,beli sambal bajag online,sambal bajag enak dan murah,sambal bajag rekomendasi tangerang,tempat beli sambal bajag enak di tangerang,sambal bajag pedas mantap,sambal bajag khas rumahan",
+    keywords: "sambal bajag bejo tangerang,sambal bajag terdekat,sambal bajag di tangerang,sambal bajag asli tangerang,sambal bajag rumahan tanpa pengawet,resep sambal bajag tradisional,sambal bajag cumi,sambal bajag teri,oleh-oleh sambal khas tangerang,sambal pedas gurih nusantara,sambal bajag homemade bejo",
     url: "https://sambalbajagbejo.web.id",
   },
   plugins: [
