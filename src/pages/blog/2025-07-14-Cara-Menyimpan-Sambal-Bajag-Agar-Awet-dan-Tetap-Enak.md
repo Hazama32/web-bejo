@@ -13,7 +13,7 @@ description: >-
 tags:
   - cara menyimpan sambal rumahan agar tahan lama
   - tips menyimpan sambal bajag bejo
-  - cara menyimpan sambal buatan sendiri
+  - cara menyimpan sambal bajag buatan sendiri
   - sambal tanpa pengawet tahan berapa lama
   - cara menyimpan sambal di kulkas dengan benar
   - cara menghindari sambal cepat basi
